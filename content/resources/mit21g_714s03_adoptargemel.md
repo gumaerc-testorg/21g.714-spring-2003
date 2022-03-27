@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: "Ejercicio auditivo; contestar individualmente y despu\xFAes formar grupos"
 uid: 8ad88dd7-2c5b-b0d5-60d9-feb25b3c6e73

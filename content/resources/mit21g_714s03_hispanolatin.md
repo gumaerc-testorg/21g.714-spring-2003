@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: Importancia para ser latino/hispano. Poner en orden descendiente.
 uid: 5b5612e9-48ca-df33-73b0-15ef5ebe0fa7

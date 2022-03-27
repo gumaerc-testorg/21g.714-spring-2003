@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 resourcetype: Document
 title: "Actividad para el primer d\xEDa de clases"
 uid: 4bf64ca7-da2a-5fc4-1796-0e73ef10eabc
