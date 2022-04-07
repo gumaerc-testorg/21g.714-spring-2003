@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 80e6f0e3-741e-7638-eeed-b87daa74547e
 ---
@@ -200,7 +201,7 @@ In-Class Activities
 
 These are classroom activities where students first make individual judgments and then exchange their views with others, either in small groups set by the instructor, or in ad hoc configurations created freely by the students themselves as they walk around the classroom.
 
-*   Actividad 1 ([PDF]({{< baseurl >}}/resources/mit21g_714s03_actividad_pr))
-*   Actividad 2 ([PDF]({{< baseurl >}}/resources/mit21g_714s03_hispanolatin))
-*   Actividad 3 ([PDF]({{< baseurl >}}/resources/mit21g_714s03_encuesta))
-*   Actividad 4 ([PDF]({{< baseurl >}}/resources/mit21g_714s03_adoptargemel))
+*   Actividad 1 ({{< resource_link 4bf64ca7-da2a-5fc4-1796-0e73ef10eabc "PDF" >}})
+*   Actividad 2 ({{< resource_link 5b5612e9-48ca-df33-73b0-15ef5ebe0fa7 "PDF" >}})
+*   Actividad 3 ({{< resource_link d9202428-3c4f-596c-35bf-8dab19d0126d "PDF" >}})
+*   Actividad 4 ({{< resource_link 8ad88dd7-2c5b-b0d5-60d9-feb25b3c6e73 "PDF" >}})
