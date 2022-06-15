@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This calendar section is written in Spanish. It provides the schedule
+  of course topics and activities.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: 0853b63b-a949-915b-43a8-ff64ac0c0d6c
 ---

@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This syllabus section is written in Spanish. It provides details on course
+  meeting times, content, requirements, evaluation, and materials.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 73d1fd64-8bc1-8e0f-1706-e9ab1ccf6f17
 ---

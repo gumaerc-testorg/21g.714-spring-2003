@@ -1,9 +1,10 @@
 ---
 content_type: page
+description: This readings section is written in Spanish. It provides details on the
+  videos and books used for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
-parent_uid: null
 title: Readings
 uid: 8dc81d2f-8d21-74ec-c2e6-3dfc15222f10
 ---
