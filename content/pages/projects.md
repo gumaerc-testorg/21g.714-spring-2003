@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a video of students describing their project work
+  for the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 1e2caad3-f439-72b5-59f0-5d7ef9fd36af
 ---
