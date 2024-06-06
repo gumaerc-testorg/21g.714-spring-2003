@@ -5,6 +5,7 @@ description: Classroom activity where students first make individual judgments a
   or in ad hoc configurations created freely by the students themselves as they walk
   around the classroom.
 file: /courses/21g-714-spanish-for-bilingual-students-spring-2003/5b5612e948cadf3373b015ef5ebe0fa7_MIT21G_714S03_hispanolatin.pdf
+file_size: 107168
 file_type: application/pdf
 learning_resource_types:
 - Assignments
